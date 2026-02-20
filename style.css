@@ -234,7 +234,7 @@ button:hover {
   transform: translateY(-4px);
 }
 .video-card:hover .thumbnail {
-  box-shadow: 0 4px 12px Orgba(0, 0, 0, 0.15);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 .thumbnail img {
   transition: transform 0.3s;
